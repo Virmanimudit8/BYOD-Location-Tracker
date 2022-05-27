@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531769192507",
+    "project_id": "byod-minor-project",
+    "storage_bucket": "byod-minor-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531769192507:android:8cbfca9b9b981600ba2c1e",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531769192507-ij5nitrj6c4v4unpk87e350d7t4hqc5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbzuF0wkRH8J4L4382YgERRbZNPs410jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531769192507-ij5nitrj6c4v4unpk87e350d7t4hqc5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
